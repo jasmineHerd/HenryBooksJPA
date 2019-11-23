@@ -1,8 +1,16 @@
 # HenryBooksJPA
 Java application demonstrating Hibernate ORM with MySQL
+
+<br>
 This application demos manipulation of book inventory of book stores
-Ability to:
-  Logon with user authentication
-  View Inventory of Specific Stores
-  Add New Books To Stores
-  Display information from multiple datatables in one clean easy to read webpage 
+<ul>
+  Ability to:
+  <li>Logon with user authentication</li>
+  <li>View Inventory of Specific Stores</li>
+  <li>Add New Books To Stores</li>
+  <li>Display information from multiple datatables in one clean easy to read webpage </li>
+</ul>
+ 
+  
+  
+  
